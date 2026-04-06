@@ -8,9 +8,9 @@
 
 <p align="center">Bem-vindo ao meu perfil!</p> <p align="center">Sou um desenvolvedor full-stack com habilidades em:</p><p align="center"> HTML</p><p align="center">CSS</p><p align="center">Java Script</p>
 
-<p> Confira meu portifólio aqui: ...</p>
+<p align="center"> Confira meu portifólio aqui: ...</p>
 
-<p> Entre em contato através do e-mail: gabrielcpagnano@gmail.com</p>
+<p align="center"> Entre em contato através do e-mail: gabrielcpagnano@gmail.com</p>
 
 <!--
 **gabrielpagnano/gabrielpagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
