@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/gabrielpagnano/gabrielpagnano/blob/main/carinha_no_pc.png?raw=true"></p>
 
-<p align="center">Bem-vindo ao meu perfil!</p> <p align="center">Sou um desenvolvedor full-stack com habilidades em:</p><p align="center"><i>· HTML</p><p align="center">· CSS</p><p align="center">· Java Script</i></p>
+<p align="center">Bem-vindo ao meu perfil!</p> <p align="center">Sou um desenvolvedor full-stack com habilidades em:</p><p align="center"><i>· HTML ·</p><p align="center">· CSS ·</p><p align="center">· Java Script ·</i></p>
 
 <p align="center"> Confira meu portifólio aqui: ...</p>
 
