@@ -12,6 +12,8 @@
 
 <p align="center"> Entre em contato através do e-mail: <b>gabrielcpagnano@gmail.com</b></p>
 
+<p align="center">Obrigado</p>
+
 <!--
 **gabrielpagnano/gabrielpagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
