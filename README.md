@@ -1,5 +1,5 @@
 <div>
-  <p>
+  <p align="right">
     <a href="https://instagram.com/gabrielpagnano"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 </div>
