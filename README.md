@@ -10,7 +10,7 @@
 
 <p align="center"> Confira meu portifólio aqui: ...</p>
 
-<p align="center"> Entre em contato através do e-mail: gabrielcpagnano@gmail.com</p>
+<p align="center"> Entre em contato através do e-mail: <b>gabrielcpagnano@gmail.com</b></p>
 
 <!--
 **gabrielpagnano/gabrielpagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
