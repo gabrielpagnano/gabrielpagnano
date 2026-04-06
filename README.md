@@ -1,3 +1,9 @@
+<div>
+  <p>
+    <a href="https://instagram.com/gabrielpagnano"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  </p>
+</div>
+
 Bem-vindo ao meu perfil, sou um desenvolvedor full-stack com habilidades em HTML, CSS e Java Script.
 
 <!--
