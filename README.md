@@ -1,4 +1,4 @@
-## Hi there 👋
+Bem-vindo ao meu perfil, sou um desenvolvedor full-stack com habilidades em HTML, CSS e Java Script.
 
 <!--
 **gabrielpagnano/gabrielpagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
