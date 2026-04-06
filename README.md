@@ -43,8 +43,8 @@ Atualmente, sou **Desenvolvedor Full-Stack** graduado pelo Senac São Paulo. Sou
 
 ### 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gabrielpagnano]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[gabrielpagnano]&layout=compact&theme=radical)
 
 ---
 
