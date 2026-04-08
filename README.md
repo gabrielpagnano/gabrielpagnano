@@ -33,7 +33,7 @@ Atualmente, sou estudante do curso de **Desenvolvedor Full-Stack** pelo Senac S�
 
 ### 🎓 Formação em Destaque:
 
-* **Desenvolvedor Full-stack - Senac São Paulo**
+* **Desenvolvedor Full-Stack - Senac São Paulo**
     * Desenvolvimento de aplicações web ponta a ponta.
     * Modelagem de dados e arquitetura REST.
     * Segurança da informação e boas práticas de versionamento.
