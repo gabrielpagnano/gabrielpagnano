@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel! 👋
 
-Atualmente, sou **Desenvolvedor Full-Stack** graduado pelo Senac São Paulo. Sou apaixonado por transformar ideias em soluções digitais completas, cuidando de cada detalhe, desde o rascunho do protótipo até a publicação do código.
+Atualmente, sou estudante do curso de **Desenvolvedor Full-Stack** pelo Senac São Paulo. Sou apaixonado por transformar ideias em soluções digitais completas, cuidando de cada detalhe, desde o rascunho do protótipo até a publicação do código.
 
 ---
 
