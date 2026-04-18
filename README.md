@@ -41,16 +41,9 @@ Atualmente, sou estudante do curso de **Desenvolvedor Full-Stack** pelo Senac S�
 
 ---
 
-### 📊 Estatísticas do GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gabrielpagnano]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[gabrielpagnano]&layout=compact&theme=radical)
-
----
-
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpagnano/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcpagnano@gmail.com)
 
 <!--
